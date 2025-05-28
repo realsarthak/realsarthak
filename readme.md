@@ -60,15 +60,20 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/realsarthak/realsarthak/output/snake.svg" alt="Snake animation" />
+<!-- Theme-responsive Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/realsarthak/realsarthak/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/realsarthak/realsarthak/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/realsarthak/realsarthak/output/github-snake.svg" />
+</picture>
 
 ###
 
 <div align="left">
-  <a href="linkedin.com/in/sarthak909" target="_blank">
+  <a href="https://linkedin.com/in/sarthak909" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="thesarthakpatil" target="_blank">
+  <a href="https://instagram.com/thesarthakpatil" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
@@ -79,14 +84,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=realsarthak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=realsarthak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/realsarthak/realsarthak/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/realsarthak/realsarthak/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/realsarthak/realsarthak/output/github-snake.svg" />
-</picture>
-
-###
